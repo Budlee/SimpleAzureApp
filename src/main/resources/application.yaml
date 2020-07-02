@@ -1,0 +1,7 @@
+sample:
+  cert:
+    path: x509/certificate/location
+  private:
+    path: private_key.der
+  clientId: clientid
+  tokenuri: https://login.microsoftonline.com/{tennant}/oauth2/token
